@@ -1,0 +1,39 @@
+.titulo{
+position: absolute;
+background: url(titulo.png);
+top: 4%;
+left: 0%;
+height: 140px;
+width: 1366px;
+}
+
+.horse{
+position: absolute;
+left: 15%;
+}
+.horse2{
+position: absolute;
+left: 80%;
+}
+
+.button1{
+position: absolute;
+top: 85%;
+left: 40%;
+background: #9A99FC;
+width: 20%;
+height: 7%;
+border-radius: 20px;
+font: oblique bold 160% cursive;
+text-decoration: none;
+}
+
+.texto{
+position: absolute;
+top: 45%;
+left: 33%;
+width: 500px;
+height: 300px;
+color: black;
+font: oblique bold 150% cursive;
+}
